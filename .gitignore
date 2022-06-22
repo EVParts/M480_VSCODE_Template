@@ -1,3 +1,5 @@
 /build
 makefsdata.exe
 /.vscode/*.log
+Toolchain/*
+!Toolchain/.gitkeep
